@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{762177F8-EDF7-4ECB-929B-5C42204785AB}|TodoList.API\\TodoList.API.csproj|d:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\todolist.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{762177F8-EDF7-4ECB-929B-5C42204785AB}|TodoList.API\\TodoList.API.csproj|solutionrelative:todolist.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762177F8-EDF7-4ECB-929B-5C42204785AB}|TodoList.API\\TodoList.API.csproj|d:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\todolist.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762177F8-EDF7-4ECB-929B-5C42204785AB}|TodoList.API\\TodoList.API.csproj|solutionrelative:todolist.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B833D-BD68-45AE-A45A-D7C974ADA2D5}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|d:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\todolist.infrastructure\\repositories\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B833D-BD68-45AE-A45A-D7C974ADA2D5}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\repositories\\todoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B833D-BD68-45AE-A45A-D7C974ADA2D5}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|d:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\todolist.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B833D-BD68-45AE-A45A-D7C974ADA2D5}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B833D-BD68-45AE-A45A-D7C974ADA2D5}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|d:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\todolist.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B833D-BD68-45AE-A45A-D7C974ADA2D5}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4B833D-BD68-45AE-A45A-D7C974ADA2D5}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|d:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\todolist.infrastructure\\data\\todolistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4B833D-BD68-45AE-A45A-D7C974ADA2D5}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\data\\todolistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762177F8-EDF7-4ECB-929B-5C42204785AB}|TodoList.API\\TodoList.API.csproj|d:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\todolist.api\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762177F8-EDF7-4ECB-929B-5C42204785AB}|TodoList.API\\TodoList.API.csproj|solutionrelative:todolist.api\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A43BFCC-E35B-4FA0-903E-4A6AEE6EB5DF}|TodoList.Domain\\TodoList.Domain.csproj|d:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\todolist.domain\\interfaces\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A43BFCC-E35B-4FA0-903E-4A6AEE6EB5DF}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\interfaces\\itodoitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{33c88fe3-43b3-374e-9aac-c4679036dce0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{174bbdbc-a66d-385e-ab90-f40c77c8bc99}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoList.API\\appsettings.json",
+              "ToolTip": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\appsettings.json",
+              "RelativeToolTip": "TodoList.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T16:37:41.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\Program.cs",
+              "RelativeDocumentMoniker": "TodoList.API\\Program.cs",
+              "ToolTip": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\Program.cs",
+              "RelativeToolTip": "TodoList.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:13:56.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "TodoList.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "TodoList.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:12:51.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItemRepository.cs",
+              "DocumentMoniker": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\Repositories\\TodoItemRepository.cs",
+              "RelativeDocumentMoniker": "TodoList.Infrastructure\\Repositories\\TodoItemRepository.cs",
+              "ToolTip": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\Repositories\\TodoItemRepository.cs",
+              "RelativeToolTip": "TodoList.Infrastructure\\Repositories\\TodoItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:12:11.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TodoList.Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "TodoList.Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:11:07.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoListDbContext.cs",
+              "DocumentMoniker": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\Data\\TodoListDbContext.cs",
+              "RelativeDocumentMoniker": "TodoList.Infrastructure\\Data\\TodoListDbContext.cs",
+              "ToolTip": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\Data\\TodoListDbContext.cs",
+              "RelativeToolTip": "TodoList.Infrastructure\\Data\\TodoListDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:10:11.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "TodoList.API\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "TodoList.API\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:09:27.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITodoItemRepository.cs",
+              "DocumentMoniker": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Domain\\Interfaces\\ITodoItemRepository.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Interfaces\\ITodoItemRepository.cs",
+              "ToolTip": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Domain\\Interfaces\\ITodoItemRepository.cs",
+              "RelativeToolTip": "TodoList.Domain\\Interfaces\\ITodoItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:09:02.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

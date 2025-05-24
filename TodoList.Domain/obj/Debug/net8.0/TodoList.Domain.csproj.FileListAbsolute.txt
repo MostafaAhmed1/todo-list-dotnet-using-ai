@@ -1,0 +1,12 @@
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.AssemblyInfoInputs.cache
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.AssemblyInfo.cs
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.csproj.CoreCompileInputs.cache
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.sourcelink.json
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.deps.json
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.dll
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.pdb
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.dll
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net8.0\refint\TodoList.Domain.dll
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.pdb
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net8.0\ref\TodoList.Domain.dll

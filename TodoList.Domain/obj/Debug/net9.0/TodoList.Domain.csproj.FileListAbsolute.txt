@@ -1,0 +1,5 @@
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.AssemblyInfoInputs.cache
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.AssemblyInfo.cs
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.csproj.CoreCompileInputs.cache
+D:\ai_projects\trae_test1\todo-list-dotnet-using-ai\TodoList.Domain\obj\Debug\net9.0\TodoList.Domain.sourcelink.json

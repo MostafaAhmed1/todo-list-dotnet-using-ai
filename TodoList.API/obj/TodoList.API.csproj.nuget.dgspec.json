@@ -1,0 +1,329 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\TodoList.API.csproj": {}
+  },
+  "projects": {
+    "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\TodoList.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\TodoList.API.csproj",
+        "projectName": "TodoList.API",
+        "projectPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\TodoList.API.csproj",
+        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
+        "outputPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Application\\TodoList.Application.csproj": {
+                "projectPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Application\\TodoList.Application.csproj"
+              },
+              "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\TodoList.Infrastructure.csproj": {
+                "projectPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\TodoList.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Application\\TodoList.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Application\\TodoList.Application.csproj",
+        "projectName": "TodoList.Application",
+        "projectPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Application\\TodoList.Application.csproj",
+        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
+        "outputPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Domain\\TodoList.Domain.csproj": {
+                "projectPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Domain\\TodoList.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Domain\\TodoList.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Domain\\TodoList.Domain.csproj",
+        "projectName": "TodoList.Domain",
+        "projectPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Domain\\TodoList.Domain.csproj",
+        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
+        "outputPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\TodoList.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\TodoList.Infrastructure.csproj",
+        "projectName": "TodoList.Infrastructure",
+        "projectPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\TodoList.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
+        "outputPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Application\\TodoList.Application.csproj": {
+                "projectPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Application\\TodoList.Application.csproj"
+              },
+              "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Domain\\TodoList.Domain.csproj": {
+                "projectPath": "D:\\ai_projects\\trae_test1\\todo-list-dotnet-using-ai\\TodoList.Domain\\TodoList.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
